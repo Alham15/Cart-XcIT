@@ -16,7 +16,7 @@
 }
 .products{
     display: flex;
-    width: 70%;
+    width: 66%;
     flex-wrap: wrap;
 }
 .details ul{
